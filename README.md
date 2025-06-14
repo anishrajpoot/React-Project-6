@@ -14,7 +14,7 @@ An interactive and visually appealing React carousel showcasing stunning marine 
 
 ## 📷 Preview
 
-![Big Fish Slider Preview](./assets/Whale1.jpg)
+![Big Fish Slider Preview](https://github.com/anishrajpoot/React-Project-6/blob/007d0e481def81a08688c803c6f7821a6c836c83/Project-6/src/assets/Screenshot%202025-06-14%20142340.png)
 
 ## 🚀 Technologies Used
 
